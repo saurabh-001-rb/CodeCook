@@ -68,14 +68,4 @@ By analyzing these criteria and possibly more depending on the complexity of the
 - **TensorFlow**: Deep learning library used for training the machine learning model.
 - **Bootstrap**: Frontend framework used for designing the responsive user interface.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or feedback, please contact:
-
-- Suchir V
-- suchirreddy31@gmail.com
 
